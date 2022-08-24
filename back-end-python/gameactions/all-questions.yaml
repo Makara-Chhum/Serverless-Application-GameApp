@@ -1,5 +1,5 @@
 - id: q001
-  question: "What is the capital of Cabodia?"
+  question: "What is the capital of Cambodia?"
   options:
     - Phnom Penh
     - Kampong Thom
@@ -62,49 +62,49 @@
   answer: "Tirana"
 
 - id: q008
-  question: "What is the capital of Algeria?"
+  question: "What is the capital of Bangladesh?"
   options:
     - Algiers
     - Béchar
-    - Constantine
+    - Dhaka
     - Batna
-  answer: "Algiers"
+  answer: "Dhaka"
 
 - id: q009
-  question: "What is the capital of Angola?"
+  question: "What is the capital of Malasia?"
   options:
     - N'dalatando
-    - Benguela 
+    - Federal Territory of Kuala Lumpur
     - Luanda
     - Uíge
-  answer: "Luanda"
+  answer: "Federal Territory of Kuala Lumpur"
 
 - id: q010
-  question: "What is the capital of Antigua and Barbuda?"
+  question: "What is the capital of Myanmar?"
   options:
     - All Saints
     - Saint John's
-    - Bolans
+    - Burma
     - Codrington 
-  answer: "Saint John's"
+  answer: "Burma"
 
 - id: q011
-  question: "What is the capital of Belarus?"
+  question: "What is the capital of Indonesia?"
   options:
     - Barysaw
     - Maladzyechna
-    - Maryina Horka
+    - Jakarta
     - Minsk
-  answer: "Minsk"
+  answer: "Jakarta"
 
 - id: q012
-  question: "What is the capital of Bhutan?"
+  question: "What is the capital of Vietnam?"
   options:
     - Phuntsholing
     - Thimphu
-    - Punakha
+    - Hanoi
     - Gelephu
-  answer: "Thimphu"
+  answer: "Hanoi"
 
 - id: q013
   question: "What is the capital of Brazil?"
@@ -116,46 +116,46 @@
   answer: "Brasilia"
 
 - id: q014
-  question: "What is the capital of Bulgaria?"
+  question: "What is the capital of Laos?"
   options:
-    - Plovdiv
+    - Vientiane
     - Sofia
     - Varna
     - Burgas
-  answer: "Sofia"
+  answer: "Vientiane"
 
 - id: q015
-  question: "What is the capital of Burkina Faso?"
+  question: "What is the capital of China?"
   options:
     - Bobo-Dioulasso
     - Ouagadougou
-    - Ouahigouya
+    - Beijing
     - Kongoussi
-  answer: "Ouagadougou"
+  answer: "Beijing"
 
 - id: q016
-  question: "What is the capital of Cape Verde?"
+  question: "What is the capital of Japan?"
   options:
     - Mindelo
     - Espargos
-    - Tarrafal
+    - Tokyo
     - Praia
-  answer: "Praia"
+  answer: "Tokyo"
 
 - id: q017
-  question: "What is the capital of Cuba?"
+  question: "What is the capital of Thailand?"
   options:
-    - Camagüey
+    - Bangkok
     - Havana
     - Holguín
     - Santa Clara
-  answer: "Havana"
+  answer: "Bangkok"
 
 - id: q018
-  question: "What is the capital of Dominican Republic?"
+  question: "What is the capital of Korea?"
   options:
-    - Santo Domingo
+    - Seoul
     - Santiago de los Caballeros
     - San Pedro de Macorís
     - San Cristóbal
-  answer: "Santo Domingo"
+  answer: "Seoul"
