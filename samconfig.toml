@@ -1,0 +1,12 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "trivia-gameapp"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-ipuoyd9b5cok"
+s3_prefix = "trivia-gameapp"
+region = "ap-southeast-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+image_repositories = []
+disable_rollback = true
