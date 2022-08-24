@@ -1,11 +1,11 @@
 - id: q001
-  question: "What is the capital of India?"
+  question: "What is the capital of Cabodia?"
   options:
-    - Mumbai
-    - Delhi
-    - Bangalore
-    - Hyderabad
-  answer: "Delhi"
+    - Phnom Penh
+    - Kampong Thom
+    - Kampong Cham
+    - Siem Reap
+  answer: "Phnom Penh"
 
 - id: q002
   question: "What is the capital of Canada?"
